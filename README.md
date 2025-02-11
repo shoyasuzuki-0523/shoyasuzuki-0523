@@ -42,12 +42,6 @@
 |CI・CD|GitHub Actions、CircleCI|
 |ツール|Jira、Confluence、Slack、Sentry, NewRelic, Mackerel|
 
-# 自己PR
-
-
-# 今後やりたいこと
-
-
 # 職務経歴
 
 ## 2021/04 ~ 現在 株式会社 BuySell Technologies
