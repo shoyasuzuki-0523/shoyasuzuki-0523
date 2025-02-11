@@ -1,49 +1,150 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=shoyasuzuki-0523" />
-</div>
+# 職務経歴書
+
+# 目次
+
+- [基本情報](#基本情報)
+- [職務要約](#職務要約)
+- [技術スタック](#技術スタック)
+- [自己PR](#自己pr)
+- [今後やりたいこと](#今後やりたいこと)
+- [職務経歴](#職務経歴)
+
+# 基本情報
+
+|項目|詳細|
+|---|---|
+|氏名|鈴木翔也|
+|生年月日|1998/05/23|
+|居住地|東京都|
+|GitHub|https://github.com/shoyasuzuki-0523|
+|X|https://x.com/WisheeBell|
+|Qiita|https://qiita.com/WisheeBell|
+|Zenn|https://zenn.dev/show_yeah|
+
+# 職務要約
+
+2021年4月からグループ企業全体で利用できる汎用的な在庫管理システムの開発に携わる。
+主に担当するのは、在庫管理システムのインフラ構築とバックエンド開発。GCPやAWS、Terraformといったインフラ構築技術に加え、Go、Ruby、Pythonといったバックエンド開発言語も活用する。
+
+開発業務においては単に実装するだけでなく機能の要件定義や画面イメージの作成も担当してきた。ユーザーにとって使いやすいシステムとなるよう上流工程から積極的に関わる。
+
+開発業務と並行して新卒採用活動にも積極的に参加しており、面接やカジュアル面談を担当し開発組織の拡大にも貢献している。またチームメンバーのメンターも担当しており、育成にも力を入れている。
+
+これらの経験を通じて、技術力はもちろんのこと、コミュニケーション能力や育成能力も身につけた。
+# 技術スタック
+
+|項目|詳細|
+|---|---|
+|インフラ|Google Cloud、AWS、Terraform|
+|データベース|PostgreSQL|
+|バックエンド|Go, Ruby on Rails, Python|
+|フロントエンド|React.js, Vue.js|
+|CI・CD|GitHub Actions、CircleCI|
+|ツール|Jira、Confluence、Slack、Sentry, NewRelic, Mackerel|
+
+# 自己PR
 
 
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @WisheeBell](https://twitter.com/WisheeBell)
-<br>
+# 今後やりたいこと
 
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
-<br>
+# 職務経歴
 
+## 2021/04 ~ 現在 株式会社 BuySell Technologies
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=shoyasuzuki-0523&theme=light&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyasuzuki-0523&theme=light&layout=compact" />
-</div>
+以下は 株式会社 BuySell Technologies での参加プロジェクトの詳細を記述する。
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shoyasuzuki-0523&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+### 2024/01 ~ グループ企業で使用する汎用的な在庫＆販売実績管理システムの開発
 
+M&Aによるグループ企業拡大に伴い企業間での在庫のやり取りや在庫情報の一元管理を行う必要があった。
+そこでグループ企業間で汎用的に使用できる在庫管理システムの開発がスタートしその開発に携わった。
 
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 概要
 
-Here are some ideas to get you started:
+|項目|詳細|
+|---|---|
+|期間|2024/01~|
+|チーム構成|EM 1名、PdM 1名、バックエンド 2名、フロントエンド 2名|
+|役割|バックエンドエンジニア|
+|使用技術|Go, Gin, Gorm, React.js, GCP, Terraform, NewRelic|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 担当業務
 
+- インフラ構築
+  - 開発環境, 本番環境の構築
+  - 自動デプロイの整備
+  - DB閲覧やインフラの閲覧&更新の権限に関する整備
+- バックエンド開発
+  - 技術選定
+  - DB設計
+  - 自動テスト環境の整備
+  - 機能実装
+- その他
+  - 要件定義
+  - 画面イメージの作成
+
+#### 主要実績
+
+##### ユーザーを意識したプロダクト開発
+
+ユーザー視点に立ち、要件定義の段階からプロジェクトに参画しました。ユーザーにとって本当に価値のある機能とは何かをチームと議論し、バックエンドの技術的な制約も考慮しながら、具体的な要件に落とし込みました。また、使いやすいUIの実現に向けて、バックエンドのデータ構造やAPI設計を踏まえた提案を行い、スムーズな開発を支援しました。
+
+##### チームの足りない部分を補う立ち回り
+
+開発初期、チームにインフラ構築経験者がいなかったので、私が率先して担当した。これは、チームに不足するスキルを補い、プロジェクトを円滑に進めるために貢献することができた。自身の経験と知識を活かし、インフラ構築に必要な作業を一手に引き受け、チームは外部の助けを借りずに開発を進めることができた。
+
+##### DBやインフラのリソースに関する権限の整備
+DBのデータやインフラのリソースに関して適切な適切な人員が適切なリソースにアクセスできるよう権限を整備した。具体的にはGCPのIAMとDBのユーザーを紐付け個々のユーザーごとに閲覧&更新できるデータを制限できるよう整備した。インフラのリソースに関してもPAMを用いて必要なユーザーに必要なタイミングだけ権限を付与するシステムを構築した。
+
+### 2021/04 ~ 社内の在庫＆販売実績管理システムの開発
+
+すでに運用されていた在庫管理システムの保守運用を行なった。
+参加した時点で1000ユーザーほど（倉庫の従業員に加えて各地の営業所の方が使用）おり在庫のデータも100万件以上存在している規模だった。
+
+主に社内での問い合わせ対応や要望のヒアリングに加えて実際に開発する内容の要件定義や機能の開発を行なった。
+
+#### 概要
+
+|項目|詳細|
+|---|---|
+|期間|2021/04~|
+|チーム構成|EM 1名、PdM 1名、エンジニア 3名|
+|役割|フルスタックエンジニア|
+|使用技術|Ruby on Rails, Vue.js(v2), AWS, Terraform, NewRelic, mackerel, Circle CI|
+
+#### 担当業務
+
+- バックエンド開発
+- フロントエンド開発
+- その他
+  - 要件定義
+  - 画面イメージ作成
+  - 問い合わせ対応
+
+#### 主要実績
+
+##### ユーザーと直接対話する開発
+
+社内で不具合や追加機能の要望があった際にエンジニアが直接対応していた。
+そのためユーザーがどのような業務フローで何を課題に感じているのか身近にヒアリングすることができた。
+またそれによってユーザーから直接感謝される機会もあり仕事のやりがいを感じることにもつながった。
+
+##### AWS Lambda や FTP サーバーを用いた外部サービスとの連携
+
+外部の別サービスへ在庫の情報を連携するためLambdaによる定期実行される処理やCSVファイルをFTPサーバーでやりとりするような連携処理を実装した。
+すでに定期実行されるバッチ処理が複数存在していたためその辺りの現状を整理し細かく文章化しながら進めていくことで既存の処理に影響を与えないよう実装した。
+
+### その他
+
+#### 採用活動
+
+エンジニアの採用活動を担当した。
+新卒採用・中途採用で、それぞれ下記のような業務を行った。
+
+**新卒採用**
+
+- サマーインターンシップの運営
+- 逆求人イベントへの参加
+- 面接
+- アトラクト面談
+- 内定者インターンのメンター
