@@ -70,16 +70,16 @@ motto: "ユーザーにとって本当に価値のあるものを、上流から
 
 <p align="center">
   <a href="https://github.com/shoyasuzuki-0523/websocket-chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoyasuzuki-0523&repo=websocket-chat&theme=tokyonight&hide_border=true" alt="websocket-chat" />
+    <img src="https://raw.githubusercontent.com/shoyasuzuki-0523/shoyasuzuki-0523/output/repo-websocket-chat.svg" alt="websocket-chat" />
   </a>
   <a href="https://github.com/shoyasuzuki-0523/go-web-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoyasuzuki-0523&repo=go-web-template&theme=tokyonight&hide_border=true" alt="go-web-template" />
+    <img src="https://raw.githubusercontent.com/shoyasuzuki-0523/shoyasuzuki-0523/output/repo-go-web-template.svg" alt="go-web-template" />
   </a>
   <a href="https://github.com/shoyasuzuki-0523/go-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoyasuzuki-0523&repo=go-cli&theme=tokyonight&hide_border=true" alt="go-cli" />
+    <img src="https://raw.githubusercontent.com/shoyasuzuki-0523/shoyasuzuki-0523/output/repo-go-cli.svg" alt="go-cli" />
   </a>
   <a href="https://github.com/shoyasuzuki-0523/RailsNew">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoyasuzuki-0523&repo=RailsNew&theme=tokyonight&hide_border=true" alt="RailsNew" />
+    <img src="https://raw.githubusercontent.com/shoyasuzuki-0523/shoyasuzuki-0523/output/repo-RailsNew.svg" alt="RailsNew" />
   </a>
 </p>
 
@@ -88,8 +88,8 @@ motto: "ユーザーにとって本当に価値のあるものを、上流から
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shoyasuzuki-0523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyasuzuki-0523&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://raw.githubusercontent.com/shoyasuzuki-0523/shoyasuzuki-0523/output/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="https://raw.githubusercontent.com/shoyasuzuki-0523/shoyasuzuki-0523/output/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ motto: "ユーザーにとって本当に価値のあるものを、上流から
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shoyasuzuki-0523&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/shoyasuzuki-0523/shoyasuzuki-0523/output/activity-graph.svg" alt="Activity Graph" />
 </p>
 
 <p align="center">
