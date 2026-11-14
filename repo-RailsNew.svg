@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="130" viewBox="0 0 400 130" role="img" aria-label="RailsNew">
+<style>
+  .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #70a5fd; }
+  .label { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a9b1d6; }
+  .value { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
+  .small { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a9b1d6; }
+  .fade { animation: fadeIn .6s ease-in-out backwards; }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" rx="6" width="399" height="129" fill="#1a1b27" stroke="#2a2e45"/>
+<text x="25" y="35" class="title">RailsNew</text>
+<text x="25" y="62" class="small" style="font-size:13px">環境構築時に逐一`rails new`するのがめんどくさいので、</text>
+<text x="25" y="80" class="small" style="font-size:13px">cloneするだけで使える状態にしておく</text>
+<circle cx="31" cy="106" r="6" fill="#701516"/>
+<text x="43" y="110" class="small">Ruby</text>
+<text x="81.4" y="110" class="small">★ 0</text>
+<text x="131.4" y="110" class="small">⑂ 0</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="205" viewBox="0 0 470 205" role="img" aria-label="ShoyaSuzuki's GitHub Stats">
+<style>
+  .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #70a5fd; }
+  .label { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a9b1d6; }
+  .value { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
+  .small { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a9b1d6; }
+  .fade { animation: fadeIn .6s ease-in-out backwards; }
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" rx="6" width="469" height="204" fill="#1a1b27" stroke="#2a2e45"/>
+<text x="25" y="35" class="title">ShoyaSuzuki's GitHub Stats</text>
+<g class="fade" style="animation-delay:150ms"><text x="25" y="65" class="label" fill="#bf91f3" style="fill:#bf91f3">⬆</text><text x="48" y="65" class="label">Contributions (1y):</text><text x="250" y="65" class="value">778</text></g>
+<g class="fade" style="animation-delay:270ms"><text x="25" y="87" class="label" fill="#bf91f3" style="fill:#bf91f3">⇄</text><text x="48" y="87" class="label">Total PRs:</text><text x="250" y="87" class="value">43</text></g>
+<g class="fade" style="animation-delay:390ms"><text x="25" y="109" class="label" fill="#bf91f3" style="fill:#bf91f3">!</text><text x="48" y="109" class="label">Total Issues:</text><text x="250" y="109" class="value">0</text></g>
+<g class="fade" style="animation-delay:510ms"><text x="25" y="131" class="label" fill="#bf91f3" style="fill:#bf91f3">▣</text><text x="48" y="131" class="label">Public Repos:</text><text x="250" y="131" class="value">20</text></g>
+<g class="fade" style="animation-delay:630ms"><text x="25" y="153" class="label" fill="#bf91f3" style="fill:#bf91f3">★</text><text x="48" y="153" class="label">Total Stars:</text><text x="250" y="153" class="value">0</text></g>
+<g class="fade" style="animation-delay:750ms"><text x="25" y="175" class="label" fill="#bf91f3" style="fill:#bf91f3">♥</text><text x="48" y="175" class="label">Followers:</text><text x="250" y="175" class="value">3</text></g>
+<g transform="translate(375,115)" class="fade" style="animation-delay:200ms"><circle r="45" fill="none" stroke="#2a2e45" stroke-width="6"/><circle r="45" fill="none" stroke="#70a5fd" stroke-width="6" stroke-linecap="round" stroke-dasharray="282.74" stroke-dashoffset="155.47" transform="rotate(-90)"/><text y="6" text-anchor="middle" class="title" style="fill:#38bdae">167</text><text y="64" text-anchor="middle" class="small">active days / 1y</text></g>
+</svg>
